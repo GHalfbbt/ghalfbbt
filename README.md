@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner-ai.png" 
        width="1400px" 
-       height="220px"
+       height="320px"
        style="object-fit: cover;"
        alt="AI Banner">
 </p>
