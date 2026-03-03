@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/Currently-IA%20Developper%20Bootcamp%20AI-success?style=flat-square"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 💻 Sobre mí
