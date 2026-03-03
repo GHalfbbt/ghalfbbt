@@ -1,25 +1,38 @@
 <p align="center">
-  <img src="banner-ai.png" width="100%">
+  <img src="banner-ai.png" 
+       width="100%" 
+       height="220px"
+       style="object-fit: cover;"
+       alt="AI Banner">
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2 style="margin:0;">
-        🚀 Data & AI Engineer | Systems Background
-      </h2>
-    </td>
-    <td align="right">
-      <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:alfbbt@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="36"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:center;">
+
+<h2 style="margin:0;">
+🚀 Data & AI Engineer | Systems Background
+</h2>
+
+<div>
+  <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  </a>
+  &nbsp;
+  <a href="mailto:alfbbt@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32"/>
+  </a>
+</div>
+
+</div>
+
+<p style="margin-top:4px;">
+Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+</p>
+<p style="margin-top:4px; font-size:14px;">
+Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+</p>
+<sub>
+Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+</sub>
 <p style="margin-top: 0;">
   Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
 </p>
