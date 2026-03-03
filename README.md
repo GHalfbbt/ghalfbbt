@@ -12,7 +12,7 @@
 
 <div>
 <h2 style="margin:0;">
-🚀 Data & AI Engineer | Systems Background | AI Developer
+🚀 Data & AI Engineer | Systems Background
 </h2>
 </div>
 
