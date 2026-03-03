@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner-ai.png" width="1000"/>
+  <img src="banner-ai.png"/>
 </p>
 
 <p align="center">
