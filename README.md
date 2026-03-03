@@ -2,6 +2,13 @@
   <img src="banner-ai.png" width="750"/>
 </p>
 
+
+<p align="center">
+  <img src="github-banner.svg" width="860"/>
+</p>
+
+
+
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
 <div>
