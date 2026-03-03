@@ -6,20 +6,25 @@
        alt="AI Banner">
 </p>
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
+<div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
+<div>
 <h2 style="margin:0;">
 🚀 Data & AI Engineer | Systems Background
 </h2>
+<p style="margin:4px 0 0 0;">
+Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+</p>
+</div>
 
 <div>
-  <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-  </a>
-  &nbsp;
-  <a href="mailto:alfbbt@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32"/>
-  </a>
+<a href="https://linkedin.com/in/GHalfbbt" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:alfbbt@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34"/>
+</a>
 </div>
 
 </div>
