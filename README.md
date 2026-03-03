@@ -29,15 +29,6 @@ Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en f
 
 </div>
 
-<p style="margin-top:4px;">
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
-</p>
-<p style="margin-top:4px; font-size:14px;">
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
-</p>
-<sub>
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
-</sub>
 <p style="margin-top: 0;">
   Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
 </p>
