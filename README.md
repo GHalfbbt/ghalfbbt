@@ -1,43 +1,34 @@
-<div align="left">
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-<h2 style="margin-bottom: 5px;">
-  🚀 Data & AI Engineer | Systems Background
-  <span style="float: right;">
-    <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-    </a>
-    &nbsp;
-    <a href="mailto:alfbbt@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32"/>
-    </a>
-  </span>
-</h2>
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2 style="margin:0;">
+        🚀 Data & AI Engineer | Systems Background
+      </h2>
+      <p style="margin:4px 0 0 0;">
+        Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+      </p>
+    </td>
+    <td align="right">
+      <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:alfbbt@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="36"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <p style="margin-top: 0;">
   Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
 </p>
 
 </div>
 
-<div>
-
-<h2>
-  🚀 Data & AI Engineer | Systems Background
-  <span style="float:right;">
-    <a href="https://linkedin.com/in/GHalfbbt">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
-    </a>
-    <a href="mailto:alfbbt@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28"/>
-    </a>
-  </span>
-</h2>
-
-<sub>
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
-</sub>
-
-</div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
@@ -111,12 +102,6 @@ Aquí algunas de las tecnologías con las que trabajo:
 ---
 
 # 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=github-compact)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark)
 
