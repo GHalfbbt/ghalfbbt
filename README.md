@@ -34,6 +34,12 @@
     alt="Typing SVG" />
 </p>
 
+<p align="left" style="margin-top:0;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=2000&color=7B9FFF&vCenter=true&repeat=true&width=900&lines=Construyendo+soluciones+basadas+en+datos+e+IA+con+foco+en+fiabilidad+y+escalabilidad" 
+    alt="Typing SVG" />
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
