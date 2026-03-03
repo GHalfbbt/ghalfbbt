@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-ai.png" width="900" 
+  <img src="banner-ai.png" width="600" 
        style="object-fit: cover;"
        alt="AI Banner">
 </p>
