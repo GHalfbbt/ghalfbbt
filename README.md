@@ -15,7 +15,7 @@
 </div>
 
 <div>
-<a href="https://linkedin.com/in/GHalfbbt" target="_blank">
+<a href="[https://linkedin.com/in/GHalfbbt](https://www.linkedin.com/in/alfonsobermudeztorres/)" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" align="right"/>
 </a>
 &nbsp;&nbsp;
@@ -115,7 +115,7 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 ## 🌐 Conecta conmigo
 
-- 🔗 LinkedIn: [https://linkedin.com/in/TUPERFIL](https://linkedin.com/in/TUPERFIL)
+- 🔗 LinkedIn: [https://linkedin.com/in/GHalfbbt](https://www.linkedin.com/in/alfonsobermudeztorres/)
 - 💼 Portfolio: En construcción
 - 📧 Email: alfbbt@gmail.com
 
