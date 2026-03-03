@@ -35,6 +35,11 @@
 
 </div>
 
+<p align="left" style="margin-top:0;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=6A8DFF&vCenter=true&repeat=true&width=1000&lines=Construyendo+soluciones+basadas+en+datos+e+Inteligencia+Artificial;Con+foco+en+fiabilidad+y+escalabilidad" 
+    alt="Typing SVG" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
