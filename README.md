@@ -2,28 +2,6 @@
   <img src="assets/banner-ai.png" width="1000"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=60&section=header"/>
-</p>
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2 style="margin:0;">
-        🚀 Data & AI Engineer | Systems Background
-      </h2>
-    </td>
-    <td align="right">
-      <a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:alfbbt@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
@@ -34,6 +12,10 @@
 </div>
 
 <div style="display:flex; justify-content:flex-end; gap:12px;">
+
+<a href="mailto:alfbbt@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34" align="right"/>
+</a>
 
 <a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" align="right"/>
