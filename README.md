@@ -1,6 +1,3 @@
-<p align="center">
- <img src="https://github.com/GHalfbbt/GHalfbbt/blob/main/banner-ai.png?raw=true" width="820"/>
-</p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
@@ -29,7 +26,7 @@
 
 <p align="left" style="margin-top:0;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=3000&color=7B9FFF&vCenter=true&repeat=true&width=750&lines=Construyendo+soluciones+basadas+en+datos+e+IA+con+foco+en+fiabilidad+y+escalabilidad" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=3000&color=7B9FFF&vCenter=true&repeat=true&width=750&lines=Construyendo+soluciones+basadas+en+datos+e+IA" 
     alt="Typing SVG" />
 </p>
 
