@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-ai.png" width="80%"/>
+  <img src="banner-ai.png" width="750"/>
 </p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
