@@ -30,7 +30,7 @@
 
 <p align="left" style="margin-top:0;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=3000&color=7B9FFF&vCenter=true&repeat=true&width=900&lines=Construyendo+soluciones+basadas+en+datos+e+IA+con+foco+en+fiabilidad+y+escalabilidad" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=3000&color=7B9FFF&vCenter=true&repeat=true&width=750&lines=Construyendo+soluciones+basadas+en+datos+e+IA+con+foco+en+fiabilidad+y+escalabilidad" 
     alt="Typing SVG" />
 </p>
 
