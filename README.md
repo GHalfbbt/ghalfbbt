@@ -1,19 +1,29 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div align="left">
 
-## 🚀 Data & AI Engineer | Systems Background
+<h2 style="margin-bottom: 5px;">
+  🚀 Data & AI Engineer | Systems Background
+  <span style="float: right;">
+    <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+    </a>
+    &nbsp;
+    <a href="mailto:alfbbt@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32"/>
+    </a>
+  </span>
+</h2>
 
-<p>
-  <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;
-  <a href="mailto:alfbbt@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
-  </a>
+<p style="margin-top: 0;">
+  Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
 </p>
 
 </div>
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Currently-Bootcamp%20AI-success?style=flat-square"/>
+</p>
 
 ---
 
@@ -85,6 +95,14 @@ Aquí algunas de las tecnologías con las que trabajo:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=github-compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true)
 
 ---
 
