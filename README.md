@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner-ai.png" width="100%" 
+  <img src="banner-ai.png" width="900" 
        style="object-fit: cover;"
        alt="AI Banner">
 </p>
 
-<div style="width:75%; display:flex; justify-content:space-between; align-items:center;">
+<div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
 <div>
 <h2 style="margin:0;">
