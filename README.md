@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="banner-ai.png" width="750">
+  <img src="banner-animated.gif" width="1000"/>
+</p>
+
+<p align="center" style="margin:0;">
+  <img src="banner-ai.png" width="1000" style="display:block;">
 </p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
@@ -21,6 +25,9 @@
 </a>
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=header"/>
+</p>
 
 <p style="margin-top: 0;">
   Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
@@ -32,7 +39,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Currently-Bootcamp%20AI-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Currently-IA%20Developper%20Bootcamp%20AI-success?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
