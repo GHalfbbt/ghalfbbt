@@ -1,7 +1,4 @@
 ## 🚀 Data & AI Engineer | Systems Background
-
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
-
 <p align="right">
   <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
@@ -11,6 +8,7 @@ Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60"/>
   </a>
 </p>
+Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
 
 ---
 
