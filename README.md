@@ -8,9 +8,6 @@
       <h2 style="margin:0;">
         🚀 Data & AI Engineer | Systems Background
       </h2>
-      <p style="margin:4px 0 0 0;">
-        Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
-      </p>
     </td>
     <td align="right">
       <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
