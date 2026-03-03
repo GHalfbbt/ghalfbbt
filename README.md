@@ -2,16 +2,26 @@
 
 Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
 
+<p align="left">
+  <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:alfbbt@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60"/>
+  </a>
+</p>
+
 ---
 
 ## 💻 Sobre mí
 
-- 🤖 Especializado en IA aplicada: Machine Learning, NLP, LLMs, RAG y Computer Vision  
+- 🤖 Inmerso en aprendizaje continuo y exploratorio en IA aplicada: Machine Learning, NLP, LLMs, RAG y Computer Vision  
 - 🔭 Desarrollando proyectos de Data Engineering y despliegue de modelos con APIs y Docker  
 - 🧠 Background en sistemas e infraestructura, aportando visión de producción y escalabilidad  
 - 🌱 Profundizando en MLOps, arquitecturas de datos y modelos en entornos reales  
 - 👯 Abierto a colaborar en proyectos de IA aplicada y data pipelines  
-- ⚡ Me motiva convertir pruebas de concepto en soluciones funcionales  
+- ⚡ Me motiva transformar ideas y pruebas de concepto en soluciones funcionales  
 - 📫 Contacto: alfbbt@gmail.com
 
 ---
