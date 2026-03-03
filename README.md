@@ -19,6 +19,26 @@
 
 </div>
 
+<div>
+
+<h2>
+  🚀 Data & AI Engineer | Systems Background
+  <span style="float:right;">
+    <a href="https://linkedin.com/in/GHalfbbt">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+    </a>
+    <a href="mailto:alfbbt@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28"/>
+    </a>
+  </span>
+</h2>
+
+<sub>
+Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+</sub>
+
+</div>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
