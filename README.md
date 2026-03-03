@@ -1,10 +1,3 @@
-<p align="center" style="margin:0;">
-  <img src="banner-ai.png" width="1000" style="display:block;">
-</p>
-
-<p align="center" style="margin:0;">
-  <img src="banner-ai.png" width="1000" style="display:block;">
-</p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
