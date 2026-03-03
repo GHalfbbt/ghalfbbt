@@ -1,3 +1,32 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GHalfbbt/GHalfbbt/main/assets/banner-ai.png" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2 style="margin:0;">
+        🚀 Data & AI Engineer | Systems Background
+      </h2>
+    </td>
+    <td align="right">
+      <a href="mailto:alfbbt@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <p align="center" style="margin:0;">
   <img src="banner-ai.png" width="1000"/>
 </p>
