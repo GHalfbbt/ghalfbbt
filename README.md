@@ -1,6 +1,6 @@
 <p align="center">
   <img src="banner-ai.png" 
-       width="1400px" 
+       width="100%" 
        height="220px"
        style="object-fit: cover;"
        alt="AI Banner">
@@ -19,14 +19,13 @@ Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en f
 
 <div>
 <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" align="right"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:alfbbt@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34" align="right"/>
 </a>
 </div>
-
 </div>
 
 <p style="margin-top: 0;">
