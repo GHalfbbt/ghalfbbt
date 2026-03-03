@@ -1,0 +1,297 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e1a"/>
+      <stop offset="40%" style="stop-color:#0d1525"/>
+      <stop offset="100%" style="stop-color:#0a0a14"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-orange" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Circuit line pattern -->
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1a2540" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+
+    <!-- Radial glow center -->
+    <radialGradient id="center-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.08"/>
+      <stop offset="60%" style="stop-color:#7c3aed;stop-opacity:0.03"/>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Tech pill gradient -->
+    <linearGradient id="pill-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f1e3d"/>
+      <stop offset="100%" style="stop-color:#0d1a35"/>
+    </linearGradient>
+
+    <!-- Title gradient -->
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="50%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#f97316"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Base background -->
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  <rect width="1500" height="500" fill="url(#center-glow)"/>
+
+  <!-- Subtle horizon line glow -->
+  <ellipse cx="750" cy="500" rx="900" ry="120" fill="#00d4ff" opacity="0.03"/>
+  <ellipse cx="750" cy="0" rx="600" ry="80" fill="#7c3aed" opacity="0.04"/>
+
+  <!-- ── CIRCUIT LINES left side ── -->
+  <g opacity="0.35" stroke="#00d4ff" stroke-width="1" fill="none">
+    <polyline points="0,180 80,180 80,220 160,220"/>
+    <polyline points="0,280 60,280 60,240 140,240"/>
+    <polyline points="0,340 100,340 100,300 180,300"/>
+    <circle cx="80" cy="180" r="3" fill="#00d4ff"/>
+    <circle cx="60" cy="280" r="3" fill="#00d4ff"/>
+    <circle cx="100" cy="340" r="3" fill="#00d4ff"/>
+  </g>
+
+  <!-- ── CIRCUIT LINES right side ── -->
+  <g opacity="0.35" stroke="#f97316" stroke-width="1" fill="none">
+    <polyline points="1500,160 1420,160 1420,200 1340,200"/>
+    <polyline points="1500,300 1440,300 1440,260 1360,260"/>
+    <polyline points="1500,380 1400,380 1400,340 1320,340"/>
+    <circle cx="1420" cy="160" r="3" fill="#f97316"/>
+    <circle cx="1440" cy="300" r="3" fill="#f97316"/>
+    <circle cx="1400" cy="380" r="3" fill="#f97316"/>
+  </g>
+
+  <!-- ── FLOATING NODES (decorative) ── -->
+  <g filter="url(#glow-cyan)">
+    <circle cx="120" cy="120" r="2.5" fill="#00d4ff" opacity="0.8"/>
+    <circle cx="200" cy="80" r="1.5" fill="#00d4ff" opacity="0.6"/>
+    <circle cx="1350" cy="100" r="2.5" fill="#a78bfa" opacity="0.8"/>
+    <circle cx="1430" cy="420" r="2" fill="#f97316" opacity="0.7"/>
+    <circle cx="80" cy="420" r="2" fill="#22d3ee" opacity="0.7"/>
+    <circle cx="700" cy="60" r="2" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="810" cy="440" r="2" fill="#00d4ff" opacity="0.5"/>
+  </g>
+
+  <!-- Connecting lines between nodes -->
+  <g stroke="#1e3a5f" stroke-width="0.8" opacity="0.5" fill="none">
+    <line x1="120" y1="120" x2="200" y2="80"/>
+    <line x1="120" y1="120" x2="80" y2="420"/>
+    <line x1="1350" y1="100" x2="1430" y2="420"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!--              MAIN CONTENT AREA                -->
+  <!-- ══════════════════════════════════════════════ -->
+
+  <!-- LEFT BLOCK: Name + Role -->
+  <g transform="translate(90, 130)">
+    <!-- Thin accent line -->
+    <rect x="0" y="0" width="3" height="130" fill="url(#title-grad)" rx="2"/>
+
+    <!-- Name -->
+    <text x="22" y="55" font-family="'Courier New', monospace" font-size="52" font-weight="700"
+          fill="url(#title-grad)" filter="url(#text-glow)" letter-spacing="-1">
+      AI &amp; Data
+    </text>
+    <text x="22" y="115" font-family="'Courier New', monospace" font-size="52" font-weight="700"
+          fill="#ffffff" opacity="0.92" letter-spacing="-1">
+      Engineer
+    </text>
+
+    <!-- Role subtitle -->
+    <text x="24" y="152" font-family="'Courier New', monospace" font-size="15"
+          fill="#64748b" letter-spacing="3">
+      MLOps · LLMs · Computer Vision · RAG
+    </text>
+  </g>
+
+  <!-- ── CENTER BRAIN / NEURAL NET ICON ── -->
+  <g transform="translate(650, 100)" filter="url(#glow-soft)">
+    <!-- Outer ring -->
+    <circle cx="100" cy="150" r="115" fill="none" stroke="#1e3a5f" stroke-width="1" stroke-dasharray="6 4" opacity="0.6"/>
+    <circle cx="100" cy="150" r="85" fill="none" stroke="#0f2a4a" stroke-width="1" opacity="0.5"/>
+
+    <!-- Neural net nodes -->
+    <!-- Layer 1 (left) -->
+    <circle cx="20" cy="100" r="8" fill="#0d1525" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
+    <circle cx="20" cy="150" r="8" fill="#0d1525" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
+    <circle cx="20" cy="200" r="8" fill="#0d1525" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
+
+    <!-- Layer 2 (center-left) -->
+    <circle cx="80" cy="80" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="80" cy="130" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="80" cy="180" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="80" cy="225" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+
+    <!-- Center node -->
+    <circle cx="140" cy="150" r="18" fill="#0a0e1a" stroke="#f97316" stroke-width="2"/>
+    <circle cx="140" cy="150" r="10" fill="#f97316" opacity="0.3"/>
+    <circle cx="140" cy="150" r="5" fill="#f97316" opacity="0.8"/>
+
+    <!-- Layer 3 (center-right) -->
+    <circle cx="200" cy="80" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="200" cy="130" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="200" cy="180" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="200" cy="225" r="8" fill="#0d1525" stroke="#a78bfa" stroke-width="1.5"/>
+
+    <!-- Layer 4 (right) -->
+    <circle cx="260" cy="100" r="8" fill="#0d1525" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
+    <circle cx="260" cy="150" r="8" fill="#0d1525" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
+    <circle cx="260" cy="200" r="8" fill="#0d1525" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
+
+    <!-- Connections layer1 -> layer2 -->
+    <g stroke="#1e3a5f" stroke-width="0.8" opacity="0.6">
+      <line x1="28" y1="100" x2="72" y2="80"/><line x1="28" y1="100" x2="72" y2="130"/>
+      <line x1="28" y1="100" x2="72" y2="180"/>
+      <line x1="28" y1="150" x2="72" y2="80"/><line x1="28" y1="150" x2="72" y2="130"/>
+      <line x1="28" y1="150" x2="72" y2="180"/><line x1="28" y1="150" x2="72" y2="225"/>
+      <line x1="28" y1="200" x2="72" y2="130"/><line x1="28" y1="200" x2="72" y2="180"/>
+      <line x1="28" y1="200" x2="72" y2="225"/>
+    </g>
+    <!-- Connections layer2 -> center -->
+    <g stroke="#7c3aed" stroke-width="0.8" opacity="0.7">
+      <line x1="88" y1="80" x2="122" y2="150"/><line x1="88" y1="130" x2="122" y2="150"/>
+      <line x1="88" y1="180" x2="122" y2="150"/><line x1="88" y1="225" x2="122" y2="150"/>
+    </g>
+    <!-- Connections center -> layer3 -->
+    <g stroke="#7c3aed" stroke-width="0.8" opacity="0.7">
+      <line x1="158" y1="150" x2="192" y2="80"/><line x1="158" y1="150" x2="192" y2="130"/>
+      <line x1="158" y1="150" x2="192" y2="180"/><line x1="158" y1="150" x2="192" y2="225"/>
+    </g>
+    <!-- Connections layer3 -> layer4 -->
+    <g stroke="#1e3a5f" stroke-width="0.8" opacity="0.6">
+      <line x1="208" y1="80" x2="252" y2="100"/><line x1="208" y1="80" x2="252" y2="150"/>
+      <line x1="208" y1="130" x2="252" y2="100"/><line x1="208" y1="130" x2="252" y2="150"/>
+      <line x1="208" y1="180" x2="252" y2="150"/><line x1="208" y1="180" x2="252" y2="200"/>
+      <line x1="208" y1="225" x2="252" y2="150"/><line x1="208" y1="225" x2="252" y2="200"/>
+    </g>
+
+    <!-- MLOps label under neural net -->
+    <text x="100" y="295" font-family="'Courier New', monospace" font-size="13"
+          fill="#64748b" text-anchor="middle" letter-spacing="4">NEURAL · NETWORK</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!--           TECH STACK PILLS (bottom)           -->
+  <!-- ══════════════════════════════════════════════ -->
+
+  <!-- Row 1 of pills -->
+  <g font-family="'Courier New', monospace" font-size="13" font-weight="600">
+
+    <!-- Python -->
+    <rect x="90" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#3b7dd8" stroke-width="1" opacity="0.9"/>
+    <text x="135" y="380" fill="#3b82f6" text-anchor="middle">Python</text>
+
+    <!-- PyTorch -->
+    <rect x="193" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#ee4c2c" stroke-width="1" opacity="0.9"/>
+    <text x="238" y="380" fill="#ef4444" text-anchor="middle">PyTorch</text>
+
+    <!-- FastAPI -->
+    <rect x="296" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#059669" stroke-width="1" opacity="0.9"/>
+    <text x="341" y="380" fill="#10b981" text-anchor="middle">FastAPI</text>
+
+    <!-- Docker -->
+    <rect x="399" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#0ea5e9" stroke-width="1" opacity="0.9"/>
+    <text x="444" y="380" fill="#38bdf8" text-anchor="middle">Docker</text>
+
+    <!-- MLOps -->
+    <rect x="502" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#f97316" stroke-width="1" opacity="0.9"/>
+    <text x="547" y="380" fill="#fb923c" text-anchor="middle">MLOps</text>
+
+    <!-- SQL -->
+    <rect x="605" y="360" width="75" height="30" rx="6" fill="url(#pill-grad)" stroke="#a78bfa" stroke-width="1" opacity="0.9"/>
+    <text x="642" y="380" fill="#c4b5fd" text-anchor="middle">SQL</text>
+
+    <!-- LLM -->
+    <rect x="693" y="360" width="75" height="30" rx="6" fill="url(#pill-grad)" stroke="#ec4899" stroke-width="1" opacity="0.9"/>
+    <text x="730" y="380" fill="#f472b6" text-anchor="middle">LLMs</text>
+
+    <!-- RAG -->
+    <rect x="781" y="360" width="75" height="30" rx="6" fill="url(#pill-grad)" stroke="#00d4ff" stroke-width="1" opacity="0.9"/>
+    <text x="818" y="380" fill="#22d3ee" text-anchor="middle">RAG</text>
+
+    <!-- Streamlit -->
+    <rect x="869" y="360" width="100" height="30" rx="6" fill="url(#pill-grad)" stroke="#ff4b4b" stroke-width="1" opacity="0.9"/>
+    <text x="919" y="380" fill="#f87171" text-anchor="middle">Streamlit</text>
+
+    <!-- Kaggle -->
+    <rect x="982" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#20beff" stroke-width="1" opacity="0.9"/>
+    <text x="1027" y="380" fill="#38bdf8" text-anchor="middle">Kaggle</text>
+
+    <!-- HuggingFace -->
+    <rect x="1085" y="360" width="120" height="30" rx="6" fill="url(#pill-grad)" stroke="#f59e0b" stroke-width="1" opacity="0.9"/>
+    <text x="1145" y="380" fill="#fbbf24" text-anchor="middle">HuggingFace</text>
+
+    <!-- Ollama -->
+    <rect x="1218" y="360" width="90" height="30" rx="6" fill="url(#pill-grad)" stroke="#6ee7b7" stroke-width="1" opacity="0.9"/>
+    <text x="1263" y="380" fill="#6ee7b7" text-anchor="middle">Ollama</text>
+
+    <!-- Git -->
+    <rect x="1321" y="360" width="75" height="30" rx="6" fill="url(#pill-grad)" stroke="#f97316" stroke-width="1" opacity="0.9"/>
+    <text x="1358" y="380" fill="#fb923c" text-anchor="middle">Git</text>
+
+  </g>
+
+  <!-- Row 2 subtle labels -->
+  <g font-family="'Courier New', monospace" font-size="12" fill="#1e3a5f">
+    <text x="90" y="430">Computer Vision</text>
+    <text x="260" y="430">·</text>
+    <text x="280" y="430">NLP</text>
+    <text x="340" y="430">·</text>
+    <text x="358" y="430">Data Pipelines</text>
+    <text x="490" y="430">·</text>
+    <text x="508" y="430">Model Deployment</text>
+    <text x="670" y="430">·</text>
+    <text x="688" y="430">Vector DBs</text>
+    <text x="790" y="430">·</text>
+    <text x="808" y="430">API Design</text>
+  </g>
+
+  <!-- Right accent block -->
+  <g transform="translate(1050, 130)">
+    <rect x="0" y="0" width="3" height="130" fill="url(#title-grad)" rx="2"/>
+    <text x="22" y="50" font-family="'Courier New', monospace" font-size="14"
+          fill="#64748b" letter-spacing="2">BUILDING</text>
+    <text x="22" y="78" font-family="'Courier New', monospace" font-size="28"
+          fill="#ffffff" opacity="0.9" font-weight="700">Intelligent</text>
+    <text x="22" y="110" font-family="'Courier New', monospace" font-size="28"
+          fill="url(#title-grad)" font-weight="700">Systems</text>
+    <text x="22" y="145" font-family="'Courier New', monospace" font-size="13"
+          fill="#475569" letter-spacing="2">FROM DATA TO PRODUCTION</text>
+  </g>
+
+  <!-- Top-right decorative dots -->
+  <g opacity="0.4">
+    <circle cx="1460" cy="50" r="1.5" fill="#a78bfa"/>
+    <circle cx="1475" cy="65" r="1" fill="#a78bfa"/>
+    <circle cx="1450" cy="70" r="1" fill="#00d4ff"/>
+    <circle cx="1485" cy="80" r="1.5" fill="#f97316"/>
+  </g>
+
+  <!-- Bottom separator line -->
+  <line x1="90" y1="415" x2="1410" y2="415" stroke="#1e3a5f" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Scan line effect (subtle) -->
+  <rect width="1500" height="2" y="250" fill="#00d4ff" opacity="0.015"/>
+
+</svg>
