@@ -14,15 +14,16 @@
 </h2>
 </div>
 
-<div>
-<a href="[https://linkedin.com/in/GHalfbbt](https://www.linkedin.com/in/alfonsobermudeztorres/)" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" align="right"/>
+<div style="display:flex; justify-content:flex-end; gap:12px;">
+
+<a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:alfbbt@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34" align="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34"/>
 </a>
-</div>
+
 </div>
 
 <p style="margin-top: 0;">
@@ -118,6 +119,27 @@ Aquí algunas de las tecnologías con las que trabajo:
 - 🔗 LinkedIn: [https://linkedin.com/in/GHalfbbt](https://www.linkedin.com/in/alfonsobermudeztorres/)
 - 💼 Portfolio: En construcción
 - 📧 Email: alfbbt@gmail.com
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+</a>
+&nbsp;
+<a href="mailto:alfbbt@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20"/>
+</a>
+&nbsp;
+<a href="#">
+  💼 Portfolio (en construcción)
+</a>
+
+</p>
+
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alfonsobermudeztorres-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfonsobermudeztorres/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alfbbt@gmail.com)
 
 ---
 
