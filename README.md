@@ -1,14 +1,18 @@
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
 ## 🚀 Data & AI Engineer | Systems Background
-<p align="right">
+
+<p>
   <a href="https://linkedin.com/in/GHalfbbt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:alfbbt@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
   </a>
 </p>
-Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en fiabilidad y escalabilidad.
+
+</div>
 
 ---
 
@@ -24,6 +28,8 @@ Construyendo soluciones basadas en datos e Inteligencia Artificial con foco en f
 ---
 
 # 🛠️ Stack Tecnológico
+
+Aquí algunas de las tecnologías con las que trabajo:
 
 ## 📊 Data & AI
 
