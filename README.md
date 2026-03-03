@@ -1,3 +1,10 @@
+<p align="center" style="margin:0;">
+  <img src="assets/banner-ai.png" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=60&section=header"/>
+</p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
