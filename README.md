@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: right; justify-content: space-between;">
 
 ## 🚀 Data & AI Engineer | Systems Background
 
