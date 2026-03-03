@@ -40,6 +40,12 @@
   <img src="https://img.shields.io/badge/Currently-IA%20Developper%20Bootcamp%20AI-success?style=flat-square"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Transition-Applied%20AI-success?style=flat-square"/>
+</p>
+
 ---
 
 ## 💻 Sobre mí
