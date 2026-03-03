@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="banner-animated.gif" width="1000"/>
+<p align="center" style="margin:0;">
+  <img src="banner-ai.png" width="1000" style="display:block;">
 </p>
 
 <p align="center" style="margin:0;">
