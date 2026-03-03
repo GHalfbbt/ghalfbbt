@@ -2,6 +2,9 @@
   <img src="assets/banner-ai.png" width="1000"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
@@ -32,12 +35,6 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=3000&color=7B9FFF&vCenter=true&repeat=true&width=750&lines=Construyendo+soluciones+basadas+en+datos+e+IA+con+foco+en+fiabilidad+y+escalabilidad" 
     alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Engineering-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Currently-IA%20Developper%20Bootcamp%20AI-success?style=flat-square"/>
 </p>
 
 <p align="left">
