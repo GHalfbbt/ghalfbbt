@@ -1,5 +1,5 @@
 <p align="center">
-  img src="https://github.com/GHalfbbt/GHalfbbt/blob/main/banner-ai.png?raw=true" width="820"/>
+  img src="https://github.com/GHalfbbt/GHalfbbt/main/banner-ai.png?raw=true" width="820"/>
 </p>
 
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
