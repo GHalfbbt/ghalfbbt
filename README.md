@@ -13,14 +13,15 @@
 
 <div style="display:flex; justify-content:flex-end; gap:12px;">
 
+<a href="mailto:alfbbt@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34" align="right"/>
+</a>
 
 <a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" align="right"/>
 </a>
 
-<a href="mailto:alfbbt@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="34" align="right"/>
-</a>
+
 
 </div>
 
