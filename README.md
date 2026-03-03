@@ -37,7 +37,7 @@
 
 <p align="left" style="margin-top:0;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1500&color=6A8DFF&vCenter=true&repeat=true&width=1000&lines=Construyendo+soluciones+basadas+en+datos+e+Inteligencia+Artificial+con+foco+en+fiabilidad+y+escalabilidad" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=6A8DFF&vCenter=true&repeat=true&width=1000&lines=Construyendo+soluciones+basadas+en+datos+e+Inteligencia+Artificial+con+foco+en+fiabilidad+y+escalabilidad" 
     alt="Typing SVG" />
 </p>
 
