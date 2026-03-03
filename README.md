@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner-ai.png" width="100%"/>
+</p>
+
+<p align="center">
   <img src="github-banner.svg" width="100%"/>
 </p>
 
