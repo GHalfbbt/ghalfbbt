@@ -1,12 +1,3 @@
-
-<p align="center">
-  <img src="banner-ai.png"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
 <div>
@@ -43,6 +34,7 @@
   <img src="https://img.shields.io/badge/Background-Systems%20Engineering-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/Transition-Applied%20AI-success?style=flat-square"/>
 </p>
+
 
 ---
 
@@ -116,6 +108,10 @@ Aquí algunas de las tecnologías con las que trabajo:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
