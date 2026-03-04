@@ -116,7 +116,12 @@ Aquí algunas de las tecnologías con las que trabajo:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/GHalfbbt" alt="GitHub Contribution Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GHalfbbt&theme=react"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GHalfbbt&theme=react"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GHalfbbt&theme=react"/>
 </p>
 
 <p align="center">
