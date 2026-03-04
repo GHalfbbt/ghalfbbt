@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-ai.png" width="100%"/>
+  <img src="banner-ai.png" width=750/>
 </p>
 
 <p align="center">
