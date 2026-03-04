@@ -2,12 +2,6 @@
   <img src="github-banner.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="banner-ai.png"/>
-</p>
-
-
-
 <div style="width:100%; display:flex; justify-content:space-between; align-items:center;">
 
 <div>
@@ -153,6 +147,24 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<h2 align="center">📊 GitHub Overview</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GHalfbbt&theme=react"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GHalfbbt&theme=react"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GHalfbbt&theme=react"/>
+</p>
+
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
