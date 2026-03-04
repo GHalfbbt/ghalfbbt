@@ -115,9 +115,6 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GHalfbbt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfonsobermudeztorres/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alfbbt@gmail.com)
-
 <p>
 
 <a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
