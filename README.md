@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="github-banner.svg"/>
+  <img src="banner-ai.png"/>
 </p>
 
 
@@ -65,15 +65,6 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 ## 📊 Data & AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFAE00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -89,25 +80,30 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 ## 🔗 APIs & Apps
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</p>
 ---
 
 ## ⚙️ Dev & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
 
 ---
 
@@ -128,6 +124,32 @@ Aquí algunas de las tecnologías con las que trabajo:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true"/>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
