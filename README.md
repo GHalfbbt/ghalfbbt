@@ -70,6 +70,7 @@ Aquí algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 </p>
+
 ---
 
 ## 🔗 APIs & Apps
@@ -89,6 +90,7 @@ Aquí algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 </p>
+
 ---
 
 ## ⚙️ Dev & Tools
@@ -113,22 +115,8 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 # 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -137,13 +125,8 @@ Aquí algunas de las tecnologías con las que trabajo:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GHalfbbt&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GHalfbbt&layout=compact&theme=react&hide_border=true"/>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
@@ -158,13 +141,6 @@ Aquí algunas de las tecnologías con las que trabajo:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GHalfbbt&theme=react"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GHalfbbt&theme=react"/>
-</p>
-
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHalfbbt&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
