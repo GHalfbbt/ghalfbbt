@@ -113,27 +113,26 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GHalfbbt&theme=react"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GHalfbbt&theme=react"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GHalfbbt&theme=react"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GHalfbbt&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GHalfbbt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfonsobermudeztorres/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alfbbt@gmail.com)
+
+<p>
+
+<a href="https://www.linkedin.com/in/alfonsobermudeztorres/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GHalfbbt" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:alfbbt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
